@@ -1,2 +1,2 @@
-# JavaDevoloper
+# JavaDeveloper
 Improve java skill
