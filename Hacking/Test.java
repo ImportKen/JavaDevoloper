@@ -1,4 +1,4 @@
-package JavaDevoloper.SuperSecret;
+package JavaDevoloper.Hacking;
 
 /**
  * Test
